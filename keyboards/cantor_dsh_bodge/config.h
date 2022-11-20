@@ -9,7 +9,7 @@
 #define MATRIX_ROWS 8
 #define MATRIX_COLS 6
 
-#define DIRECT_PINS {{B1, B10, A8, B15, B14, B13}, \
+#define DIRECT_PINS {{B1, B10, A8, B15, B14, B12}, \
                      {B9, B8, B5, B4, B3, A15}, \
                      {A3, A4, A5, A6, A7, B0}, \
                      {A2, A1, A0, NO_PIN, NO_PIN, NO_PIN}}
